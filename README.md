@@ -8,7 +8,7 @@ A DS3231 based clock on 16x2 LCD Display
   - Gravity LCD with I2C Interface (https://www.dfrobot.com/product-1722.html)
 
 ## Circuit Diagram
-(https://raw.githubusercontent.com/mayankgsingh/clock/master/images/Clock_CircuitDiagram.JPG)|![Circuit Diagram.jpg]
+![Circuit Diagram](https://raw.githubusercontent.com/mayankgsingh/clock/master/images/Clock_CircuitDiagram.JPG)
 
 ## Final Product
-(https://raw.githubusercontent.com/mayankgsingh/clock/master/images/Clock.JPG)|![Clock.jpg]
+![Clock.jpg](https://raw.githubusercontent.com/mayankgsingh/clock/master/images/Clock.JPG)
